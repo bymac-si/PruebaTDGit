@@ -2,3 +2,16 @@
     top:200px;
     float: left;
 }
+.card-background {
+    background-color: #00cef3 !important;
+}
+main{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 80px; 
+    padding-right: 80px; 
+    background-color:blacK;
+}
+.carousel-item img{
+    max-height: 1000px;
+}
